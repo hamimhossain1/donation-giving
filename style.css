@@ -6,6 +6,7 @@ body{
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 /* ....banner section .... */
@@ -38,9 +39,49 @@ body{
     cursor: pointer;
 }
 
+/* ....donate money section .... */
+#donateMoney{
+    text-align: center;
+    padding-top: 7em;
+}
+#donateMoney h5{
+    margin-bottom: 1em;
+    font-size: 1.5em;
+    color: grey;
+}
+.amount-potions{
+    padding-top: 3em;
+    max-width: 42%;
+    display: flex;
+    margin: 10px;
+    justify-content: space-around;
+    margin: auto;
+
+}
+.amount-potions h5{
+    /* border: 2px solid red; */
+    padding: 1.5em;
+    background-color: rgb(241, 238, 238);
+}
+hr{
+    width: 80%;
+    margin: auto;
+}
+/* .donateMoney-text{
+    font-weight: 900;
+} */
 
 
-/* ....banner section .... */
+
+
+
+
+
+
+
+
+
+
 /* ....banner section .... */
 /* ....banner section .... */
 /* ....banner section .... */
