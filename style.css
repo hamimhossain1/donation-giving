@@ -131,6 +131,24 @@ hr{
     background-color: rgb(252, 251, 183);
 }
 
+/* ....donation lives section .... */
+#donationLives{
+    padding-top: 6em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+}
+.donationLives-text{
+    max-width: 40%;
+}
+.donationLives-text h1{
+    font-size: 2.4em;
+}
+.donationLives-img{
+    max-width: 40%;
+}
 
 
 
@@ -142,6 +160,8 @@ hr{
 
 
 
-
+/* ....banner section .... */
+/* ....banner section .... */
+/* ....banner section .... */
 /* ....banner section .... */
 /* ....banner section .... */
