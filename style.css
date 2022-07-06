@@ -172,6 +172,69 @@ hr{
     font-size: 2em;
 }
 
+/* ....get updates section .... */
+    #getUpdates{
+        max-width: 40%;
+        margin: auto;
+    }
+    .getUpdates-text{
+        text-align: center;
+        padding-top: 7em;
+    }
+    .getUpdates-text h1{
+        margin-bottom: 1em;
+        font-size: 2.5em;
+    }
+    .get-form,.sub{
+        /* width: 6em; */
+        padding: 8px 40px;
+        background-color: #ef584a;
+    }
+    .get-form{
+        /* border: 2px solid red; */
+        background: rgb(250, 239, 236);
+        text-align: center;
+        height: 10em;
+        /* display: flex; */
+
+    }
+    .sub, .email{
+        padding: 10px 20px;
+        background: rgb(240, 239, 239);
+        outline: none;
+        border-radius: 5px;
+    }
+    .sub{
+        background-color: #ef584a;
+        color: #fff;
+    }
+    .form{
+        margin-top: 50px;
+    }
+
+/* ....footer section .... */
+    #footer{
+        background-color: black;
+        /* padding-top: 3em; */
+        margin-top: 6.5em;
+        height: 9em;
+        text-align: center;
+        /* margin-top: 3em; */
+        /* position: relative; */
+        /* position: absolute; */
+    }
+    .footer-text h1{
+        color: #ef584a;
+        margin-top: 30px;
+        font-family: 'Roboto', sans-serif;
+    }
+    .footer-text p{
+        color: white;
+        /* margin-top: 30px; */
+    }
+    .footer-text{
+        padding-top: 1em;
+    }
 
 
 
@@ -181,8 +244,5 @@ hr{
 
 
 
-
-/* ....banner section .... */
-/* ....banner section .... */
 /* ....banner section .... */
 /* ....banner section .... */
