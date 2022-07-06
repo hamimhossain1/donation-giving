@@ -105,6 +105,14 @@ hr{
     justify-content: space-between;
     margin-top: 4em;
 }
+.card h1{
+    font-size: 1.3em;
+    margin-top: 1em;
+}
+.card p{
+    font-size: 13px;
+    margin-top: 1em;
+}
 .card{
     max-width: 30%;
     /* border: 2px black solid; */
@@ -120,7 +128,7 @@ hr{
     background-color: rgb(247, 225, 240);
 }
 .card-3{
-    background-color: rgb(250, 248, 236);
+    background-color: rgb(252, 251, 183);
 }
 
 
