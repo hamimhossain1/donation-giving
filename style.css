@@ -1,4 +1,46 @@
+/* ....general code .... */
 body{
     font-family: 'Poppins', sans-serif;
     /* font-family: 'Roboto', sans-serif; */
 }
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* ....banner section .... */
+#banner{
+    background-image: linear-gradient(rgba(0,0,0,0.5),#009688),url(images/donation7.jpg);
+    background-size: cover;
+    height: 70vh;
+}
+.banner-text{
+    text-align: center;
+    color: #fff;
+    padding-top: 14em;
+}
+.banner-text h1{
+    font-size: 3em;
+}
+.banner-btn{
+    font-family: 'Roboto', sans-serif;
+    background-color: #ef584a;
+    color: #fff;
+    outline: none;
+    text-decoration: none;
+    border: none;
+    text-align: center;
+    padding: .9em 1.6em;
+    border-radius: 5px;
+    margin-top: 2em;
+    font-size: 1em;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+
+/* ....banner section .... */
+/* ....banner section .... */
+/* ....banner section .... */
+/* ....banner section .... */
